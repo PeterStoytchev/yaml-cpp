@@ -1,2 +1,0 @@
-C:\Users\Seph\Desktop\yaml-cpp\bin\yaml-cpp-windows-x86_64\yaml-cpp.pdb
-C:\Users\Seph\Desktop\yaml-cpp\bin-int\yaml-cpp-windows-x86_64\Debug\yaml-cpp.pdb
