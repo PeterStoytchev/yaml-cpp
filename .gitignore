@@ -6,6 +6,7 @@
 
 bin/
 bin-inter/
+bin-int/
 
 .vs/
 
